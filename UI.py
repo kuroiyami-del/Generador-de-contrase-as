@@ -3,6 +3,7 @@ from tkinter import messagebox
 from logica import Creador
 
 color = "#00509D"
+amarillo = "#FFFF00"
 
 
 creador = Creador()
